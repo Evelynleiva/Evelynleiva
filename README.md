@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Evelyn Leiva
 
-<!--
-**Evelynleiva/Evelynleiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista Programador en formación, especializada en desarrollo web full-stack y gestión de bases de datos.
 
-Here are some ideas to get you started:
+## Sobre mí
+Actualmente estudiando Analista Programador en INACAP Los Ángeles. Experiencia en desarrollo de sistemas empresariales, análisis de datos y optimización de procesos. Apasionada por crear soluciones tecnológicas que generen impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack Tecnológico
+**Backend:** Python, Django, SQL  
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+**Bases de Datos:** MySQL, Oracle SQL  
+**Herramientas:** Power BI, Git, VS Code, Excel Avanzado
+
+## Proyectos Destacados
+- **Sistema de Gestión Empresarial Sirius LyCh** - Sistema completo Django con gestión de proyectos, clientes y presupuestos
+
+## Contacto
+- LinkedIn: [linkedin.com/in/evelyn-leiva-pino](https://www.linkedin.com/in/evelyn-leiva-pino-1a459330a)
+- Email: evelynleiva.03@gmail.com
+- Ubicación: Los Ángeles, Chile
