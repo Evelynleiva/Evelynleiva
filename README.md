@@ -16,5 +16,5 @@ Actualmente estudiando Analista Programador en INACAP Los Ángeles. Experiencia 
 
 ## Contacto
 - LinkedIn: [linkedin.com/in/evelyn-leiva-pino](https://www.linkedin.com/in/evelyn-leiva-pino-1a459330a)
-- Email: evelynleiva.03@gmail.com
+- Email: eveangelica.88@gmail.com - evelyn.leiva07@inacapmail.cl
 - Ubicación: Los Ángeles, Chile
