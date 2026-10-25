@@ -1,38 +1,31 @@
-# Hola, soy Evelyn Leiva 👋
+# Evelyn Leiva
 
-**Analista Programador Titulada | Estudiante de Ingeniería en Ciberseguridad**  
-Especializada en desarrollo web Full-Stack con **Python (Django)**, **JavaScript** y gestión de bases de datos. Apasionada por el código limpio, la optimización de procesos y el desarrollo seguro de software.
+**Analista Programador titulada | Estudiante de Ingeniería en Ciberseguridad**  
+Los Ángeles, Biobío, Chile · Interés en trabajo remoto: desarrollo web junior, QA y soporte de aplicaciones.
 
----
+## Sobre mí
 
-### 🚀 Sobre mí
+Tengo experiencia de práctica profesional en desarrollo web con Django, HTML, CSS/SASS, Bootstrap, JavaScript y Git. He desarrollado y documentado aplicaciones académicas y proyectos de gestión empresarial. Actualmente continúo estudios de Ingeniería en Ciberseguridad.
 
-* 🎓 **Titulada de Analista Programador** en INACAP (Los Ángeles, Chile).
-* 🛡️ **Estudiante de Ingeniería en Ciberseguridad** (1° año completado).
-* 💻 **Experiencia Práctica Real:** Desarrollo y refactorización frontend/backend para el proyecto *House Construcción* en **Isamax** (Django, HTML5, CSS3/Flexbox, JavaScript, Git).
-* 🎯 **Enfoque actual:** Profundizar en desarrollo seguro de software, consumo de APIs REST y buenas prácticas de ciberseguridad en arquitecturas web.
+## Tecnologías
 
----
+- Python, Django, JavaScript, HTML, CSS, Bootstrap.
+- React y Node.js/Express en proyectos académicos.
+- SQL, MySQL, Git y GitHub.
+- Fundamentos de redes, AWS y seguridad de aplicaciones.
 
-### 🛠️ Stack Tecnológico
+## Proyectos
 
-* **Backend & Lenguajes:** Python, Django, Kotlin, Java.
-* **Frontend:** HTML5, CSS3/SASS, JavaScript (ES6+), Bootstrap, Responsive Design.
-* **Bases de Datos:** MySQL, Oracle SQL, PostgreSQL.
-* **Ciberseguridad & Fundamentos:** Programación Segura (OOP), Análisis de Procesos, Redes y Sistemas Operativos.
-* **Herramientas & Control de Versiones:** Git, GitHub (Flujo de ramas/QA), VS Code, Power BI.
+- **[Quiz Museo Angostura](https://github.com/Evelynleiva/quiz-angostura):** proyecto académico en equipo de quizzes mediante QR, con React, Express y MySQL. [Ficha de portafolio en revisión](https://github.com/Evelynleiva/quiz-angostura/blob/docs/portafolio-profesional/docs/PORTAFOLIO.md).
+- **[Gestión empresarial Sirius LyCh](https://github.com/Evelynleiva/eva2leiva-sirius):** aplicación Django orientada a clientes, proyectos y presupuestos.
+- **Web Sirius LyCh:** sitio corporativo responsive; repositorio de código privado.
 
----
+## Experiencia práctica
 
-### 📌 Proyectos Destacados
+**Isamax | Práctica profesional (noviembre 2025 – enero 2026).** Trabajo con interfaces Django, estilos responsivos, JavaScript y flujo colaborativo de Git.
 
-* **[House Construcción - Isamax]** *(Proyecto Real)*: Refactorización de vistas dinámicas en Django, solución de maquetación responsiva (*Sticky Footer*), integración de alertas con SweetAlert2 y manejo de persistencia local.
-* **[eva2leiva-sirius](https://github.com/Evelynleiva/eva2leiva-sirius)**: Sistema de Gestión Empresarial en Django para administración de proyectos, clientes y presupuestos.
+## Contacto
 
----
+[LinkedIn](https://www.linkedin.com/in/evelyn-leiva-pino) · eveangelica.88@gmail.com
 
-### 📫 Contacto
-
-* 💼 **LinkedIn:** [linkedin.com/in/evelyn-leiva-pino](https://www.linkedin.com/in/evelyn-leiva-pino)
-* 📧 **Email:** [eveangelica.88@gmail.com](mailto:eveangelica.88@gmail.com) | [evelyn.leiva07@inacapmail.cl](mailto:evelyn.leiva07@inacapmail.cl)
-* 📍 **Ubicación:** Los Ángeles, Biobío, Chile.
+*Las descripciones de proyectos indican su alcance documentado; su funcionamiento actual debe comprobarse antes de presentarlos como demostraciones.*
