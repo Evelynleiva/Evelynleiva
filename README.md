@@ -27,6 +27,12 @@ Aplicación desarrollada con Django para administrar clientes, proyectos y presu
 
 **Tecnologías:** Python, Django, HTML, CSS, JavaScript y Bootstrap.
 
+### [Aplicación Android de productos](https://github.com/Evelynleiva/MyApplication)
+
+Desarrollé una aplicación Android en Kotlin y Jetpack Compose para registrar y listar productos, con almacenamiento en Firebase Firestore. Incluye un formulario con validación de datos.
+
+**Tecnologías:** Kotlin, Jetpack Compose y Firebase Firestore.
+
 ### [Sitio web Sirius LyCh](https://siriuslych.cl/)
 
 Desarrollé y publiqué el sitio web corporativo de Sirius LyCh, una empresa de servicios técnicos, construcción y mantenimiento. Trabajé en la presentación de los servicios, el diseño adaptable a dispositivos móviles y la puesta en línea del sitio.
