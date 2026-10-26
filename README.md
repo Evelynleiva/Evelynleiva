@@ -1,31 +1,28 @@
 # Evelyn Leiva
 
-**Analista Programador titulada | Estudiante de Ingeniería en Ciberseguridad**  
-Los Ángeles, Biobío, Chile · Interés en trabajo remoto: desarrollo web junior, QA y soporte de aplicaciones.
+Soy Analista Programador titulada de INACAP y actualmente estudio Ingeniería en Ciberseguridad. Vivo en Los Ángeles, Chile.
 
-## Sobre mí
+Durante mi práctica en Isamax trabajé en un proyecto Django, principalmente en ajustes de interfaces, diseño responsivo y funcionalidades con JavaScript. También he desarrollado proyectos web académicos y aplicaciones para gestión administrativa.
 
-Tengo experiencia de práctica profesional en desarrollo web con Django, HTML, CSS/SASS, Bootstrap, JavaScript y Git. He desarrollado y documentado aplicaciones académicas y proyectos de gestión empresarial. Actualmente continúo estudios de Ingeniería en Ciberseguridad.
+Me interesa seguir trabajando en desarrollo web y también estoy abierta a oportunidades junior en QA o soporte de aplicaciones, idealmente de forma remota.
 
-## Tecnologías
+## Tecnologías con las que he trabajado
 
-- Python, Django, JavaScript, HTML, CSS, Bootstrap.
-- React y Node.js/Express en proyectos académicos.
-- SQL, MySQL, Git y GitHub.
-- Fundamentos de redes, AWS y seguridad de aplicaciones.
+Python, Django, JavaScript, HTML, CSS, SASS, Bootstrap, SQL, MySQL, Git y GitHub. En proyectos académicos también he utilizado React y Express.
 
 ## Proyectos
 
-- **[Quiz Museo Angostura](https://github.com/Evelynleiva/quiz-angostura):** proyecto académico en equipo de quizzes mediante QR, con React, Express y MySQL. [Ficha de portafolio en revisión](https://github.com/Evelynleiva/quiz-angostura/blob/docs/portafolio-profesional/docs/PORTAFOLIO.md).
-- **[Gestión empresarial Sirius LyCh](https://github.com/Evelynleiva/eva2leiva-sirius):** aplicación Django orientada a clientes, proyectos y presupuestos.
-- **Web Sirius LyCh:** sitio corporativo responsive; repositorio de código privado.
+- [Quiz Museo Angostura](https://github.com/Evelynleiva/quiz-angostura): proyecto académico grupal para responder cuestionarios mediante códigos QR. Utiliza React, Express y MySQL.
+- [Sistema Sirius LyCh](https://github.com/Evelynleiva/eva2leiva-sirius): aplicación Django para gestionar información de clientes, proyectos y presupuestos.
+- Sitio web Sirius LyCh: página corporativa que he trabajado con HTML, CSS y JavaScript. El repositorio está privado.
 
-## Experiencia práctica
+## Experiencia
 
-**Isamax | Práctica profesional (noviembre 2025 – enero 2026).** Trabajo con interfaces Django, estilos responsivos, JavaScript y flujo colaborativo de Git.
+**Isamax — Práctica profesional (noviembre de 2025 a enero de 2026)**
+
+Trabajé con plantillas Django, HTML, CSS/SASS, Bootstrap y JavaScript, realizando ajustes de interfaz y resolviendo problemas de visualización en distintas pantallas. Utilicé Git y GitHub para trabajar con ramas e integrar cambios.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/evelyn-leiva-pino) · eveangelica.88@gmail.com
-
-*Las descripciones de proyectos indican su alcance documentado; su funcionamiento actual debe comprobarse antes de presentarlos como demostraciones.*
+- [LinkedIn](https://www.linkedin.com/in/evelyn-leiva-pino)
+- eveangelica.88@gmail.com
